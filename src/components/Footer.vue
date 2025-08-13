@@ -14,7 +14,7 @@
       :depth="3"
       class="icp"
       v-html="icp"
-      @click="jumpLink('https://beian.miit.gov.cn/')"
+      @click="jumpLink('https://icp.we2050.com/id.php?keyword=20258962')"
     />
   </footer>
 </template>
